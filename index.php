@@ -1,6 +1,4 @@
 <?php 
-error_reporting(E_ALL); // Add this to see errors
-ini_set('display_errors', 1);
 
 $Page_title = 'Home';
 include_once 'include/dbconn.php'; // <--- MUST come first
