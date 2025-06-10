@@ -29,7 +29,7 @@ Permettre aux utilisateurs :
 - **Outils de développement :**
   - Visual Studio Code
   - XAMPP (Apache + MySQL)
- 
+  - StarUML (pour la conception UML)
 
 ---
 
@@ -46,6 +46,31 @@ Permettre aux utilisateurs :
 - Gestion des utilisateurs
 - Gestion des annonces (valider, supprimer, modifier)
 - Accès aux statistiques globales
+
+---
+
+## 🖼️ Aperçu du site
+
+### Page d'accueil
+![Homepage](assetspreview/Homepage.png)
+
+### Informations utilisateur
+![userInfo](assetspreview/userInfo.png)
+
+### Connexion administrateur
+![AdminLogin](assetspreview/AdminLogin.png)
+
+### Informations administrateur
+![AdminInfo](assetspreview/AdminInfo.png)
+
+### Tableau de bord administrateur
+![AdminTableauBord](assetspreview/AdminTableauBord.png)
+
+### Page de contact
+![contactpage](assetspreview/contactpage.png)
+
+### Détails d'un bien immobilier
+![detailimmo](assetspreview/detailimmo.png)
 
 ---
 
@@ -80,6 +105,10 @@ Permettre aux utilisateurs :
    - Utiliser l’interface d’administration via `/admin` (par exemple)
 
 ---
+
+
+
+
 
 ## 🔗 Dépôt GitHub
 
