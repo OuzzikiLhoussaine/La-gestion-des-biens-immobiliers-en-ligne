@@ -65,7 +65,7 @@ Permettre aux utilisateurs :
 
 3. **Importer la base de données :**
    - Ouvrir PhpMyAdmin via `http://localhost/phpmyadmin`
-   - Créer une nouvelle base de données (ex: `immobilier`)
+   - Créer une nouvelle base de données (`estateagency`)
    - Importer le fichier `.sql` fourni dans le dépôt (le fichier doit se trouver dans le dossier du projet)
 
 4. **Lancer les services Apache et MySQL** depuis le panneau de contrôle XAMPP
