@@ -105,11 +105,3 @@ Permettre aux utilisateurs :
    - Utiliser l’interface d’administration via `/admin` (par exemple)
 
 ---
-
-
-
-
-
-## 🔗 Dépôt GitHub
-
-[Voir le code source du projet](https://github.com/OuzzikiLhoussaine/La-gestion-des-biens-immobiliers-en-ligne.git)
